@@ -1,0 +1,15 @@
+*{box-sizing: border-box;}
+
+thead{
+    color: white;
+    background-color: #145c4e;
+}
+table{
+    width: 70%;
+    margin: auto;
+}
+
+table,th,td{
+    border-collapse: collapse;
+    border: 1px solid #dce6db;
+}
